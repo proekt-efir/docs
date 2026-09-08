@@ -1,0 +1,240 @@
+EFIR
+LEGAL NOTICE
+Version 2.0. Effective date: September 6, 2026
+Project Author: Evgeny Nikolaevich
+Current version: https://proekt-efir.ru/disclaimer
+
+============================================================
+
+This Legal Notice sets out the nature of the materials published as part of the “EFIR” project (the “Project”), the terms governing the use of the Project’s copyrighted materials, and the limits of the Author’s liability.
+
+The proekt-efir.ru website, including its web interface and progressive web application (PWA), is the official resource of the Project. The list of other official Project resources and the criteria for determining them are set out in Section 01. This Notice applies to Project materials published on its official resources.
+
+The Author of the Project is Evgeny Nikolaevich.
+
+Project copyrighted materials are texts, images, audio, and video materials created by the Author, the exclusive rights to which belong to the Author, unless otherwise expressly stated for a particular material.
+
+“User” means any person who accesses or uses Project materials.
+
+============================================================
+
+01 — NATURE OF THE PROJECT
+--------------------------
+
+The proekt-efir.ru website, including its web interface and progressive web application (PWA), is the official resource of the independent information project “EFIR.”
+
+Official Project resources include the proekt-efir.ru website, as well as the Project’s official pages, channels, communities, and other accounts hosted on third-party internet platforms and services that are either expressly identified by the Author as official or linked to from the Project’s official website.
+
+The Project’s materials reflect the Author’s position, views, personal experience, and opinions. They are not an official source of information, a regulatory document, or a source of information guaranteed to be accurate.
+
+The Project’s informational materials are provided on an “as is” basis, without warranties as to completeness, currency, accuracy, or fitness for a particular purpose, except where otherwise expressly required by applicable law.
+
+Some Project materials may contain links to external online resources. The presence of such a link does not, by itself, mean that the relevant resource is an official Project resource, is under the Author’s control, or is endorsed by the Author, unless expressly stated otherwise.
+
+02 — INFORMATIONAL NATURE OF THE MATERIALS
+-------------------------------------------
+
+The Project’s materials are provided for informational and general reference purposes only and, by themselves, do not constitute:
+
+— individual instructions, recommendations, or directives;
+— personal advice or guidance for taking action;
+— professional advice or consultation;
+— a guarantee of any particular outcome.
+
+Users make their own decisions based on the Project’s materials and are responsible for taking the specific circumstances of their situation into account.
+
+If a decision requires professional assessment, the User independently determines whether to seek advice from an appropriate specialist.
+
+The Author may make mistakes; when relying on important information, Users are advised to verify it through other sources.
+
+03 — NOT PROFESSIONAL ADVICE
+----------------------------
+
+The Project’s materials do not constitute, and are not a substitute for, professional medical, psychological, psychiatric, legal, financial, or other specialized advice, diagnosis, or treatment.
+
+The Author does not undertake any obligation to conduct an individual professional assessment of a User’s circumstances solely as a result of providing access to the Project’s materials.
+
+Where circumstances require professional assessment, the User should consult an appropriately qualified specialist.
+
+04 — LIMITATION OF LIABILITY
+----------------------------
+
+To the maximum extent permitted by applicable law, the Author shall not be liable for any direct, indirect, incidental, or other consequences arising in connection with the use, inability to use, or interpretation of the Project’s materials.
+
+In particular, the Author does not guarantee that the Project’s materials:
+
+— are exhaustive;
+— are current at the time they are used;
+— are suitable for the User’s particular circumstances;
+— will produce any specific result;
+— will be continuously available and free from technical errors.
+
+This limitation of liability does not apply to rights or forms of liability that cannot be limited or excluded under applicable law.
+
+Nothing in this Notice is intended to exclude or limit mandatory legal requirements or any rights of the User that cannot legally be waived.
+
+05 — MINORS
+------------
+
+The Project’s materials are oriented toward an adult audience. The Author does not verify the age of Users.
+
+The Project’s materials are not intended to replace parental, guardianship, or other legally required supervision of minors.
+
+If a minor accesses the Project, such access does not, by itself, change the nature of the Project’s materials or create any obligation for the Author to provide individual supervision or support to that person, unless expressly required by law or by a separate agreement.
+
+06 — NO PROFESSIONAL RELATIONSHIP
+----------------------------------
+
+Access to the Project, including viewing, listening to, reading, downloading, or otherwise using its materials, does not by itself constitute the formation of an agreement for consulting, medical, psychological, legal, financial, or other professional services.
+
+The User independently decides whether and how to use the Project’s materials. Such access alone does not give the User the right to demand individual consultation, diagnosis, treatment, professional support, or any other professional outcome from the Author.
+
+This provision does not exclude the possibility of contractual or other legally recognized relationships arising where such relationships are separately and properly established between the parties.
+
+07 — VOLUNTARY NON-COMPENSATED PAYMENTS
+----------------------------------------
+
+If the Project or the Author provides an opportunity to voluntarily transfer money without receiving in return any goods, work, service, access to a paid product, or other consideration, such transfer will generally be treated as a voluntary gratuitous payment to the Author rather than payment for goods or services, unless the actual circumstances of the transfer indicate otherwise.
+
+Such a transfer, by itself, does not create an obligation for the Author to provide the sender with any goods, work, service, consultation, access to a paid product, or other consideration, unless such an obligation is expressly established by a separate agreement.
+
+The legal nature of a particular payment is determined by the actual circumstances of the payment, the content of the relevant offers, and applicable law, and is not changed merely by the name given to the payment.
+
+Questions concerning the refund, cancellation, or dispute of a payment are governed by applicable law, the terms of the relevant payment system, and the circumstances of the particular payment.
+
+08 — LICENSE FOR COPYRIGHTED MATERIALS
+--------------------------------------
+
+Unless the Author expressly states otherwise for a particular material, the Project’s copyrighted materials are made available under a simple (non-exclusive), royalty-free, open license: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+License text and terms: creativecommons.org/licenses/by-nc-nd/4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+It is not necessary to mark each individual material with a separate license notice: this Section constitutes the general statement of licensing terms for the Project’s copyrighted materials.
+
+Third-party materials (Section 10), as well as Project elements expressly excluded from the license (Section 13), are not provided under CC BY-NC-ND 4.0.
+
+To the extent permitted by the license and by law, Users may use such materials under the terms of the stated license, including copying and distributing them in accordance with those terms.
+
+Use of the materials is subject to full compliance with the license terms, including attribution requirements, identification of the license, and provision of a link to the license where required by its terms.
+
+Commercial use of licensed materials is not permitted under the terms of CC BY-NC-ND 4.0. Separate commercial use may be authorized by the Author under a separate permission.
+
+Distribution of adapted materials is not permitted to the extent and in circumstances where such distribution is prohibited by the terms of CC BY-NC-ND 4.0.
+
+The grant of a license does not constitute a transfer of the exclusive right in a work and does not grant rights to Project elements that are not included in the relevant licensed material.
+
+The license does not grant any rights to use trademarks, logos, the domain name, personal data, a person’s image, or other subject matter in which rights may exist independently of the copyright in the relevant material.
+
+The license is granted without territorial limitation and for the duration of the applicable exclusive right, to the extent and on the terms permitted by applicable law and the license itself.
+
+The Creative Commons license terms are independent terms governing the grant of the relevant rights. This Notice does not amend or replace the official text of CC BY-NC-ND 4.0.
+
+09 — ATTRIBUTION AND INTEGRITY OF WORKS
+---------------------------------------
+
+When using licensed materials, the attribution requirements of CC BY-NC-ND 4.0 must be observed.
+
+If a particular material or accompanying information specifies how the Author is to be credited, the User must follow that method to the extent permitted by the license.
+
+Use of the material must not create a false impression that the Author:
+
+— is the author of material created by the User;
+— endorses the User’s position;
+— supports the User, the User’s activities, product, service, or organization;
+— has a partnership, employment, agency, or other relationship with the User,
+
+when no such circumstances actually exist.
+
+The integrity of the work and other non-transferable moral rights of the Author are protected in accordance with applicable law.
+
+10 — THIRD-PARTY MATERIALS
+--------------------------
+
+Not every item published on an official Project resource is automatically the Author’s copyrighted material.
+
+Official Project resources may contain materials belonging to third parties. Rights in such materials belong to the respective rights holders or are used on the basis of separate permission, a license, or another legal basis.
+
+If a particular material expressly identifies a different rights holder, a different usage regime, or a different license, the corresponding terms shall apply.
+
+This Notice does not grant Users any rights to third-party materials.
+
+11 — MATERIALS CREATED USING GENERATIVE TECHNOLOGIES
+-----------------------------------------------------
+
+In creating Project materials, the Author may use generative technologies (artificial intelligence) for generation, processing, editing, and other purposes.
+
+The mere use of generative technologies does not automatically mean that the Author acquires an exclusive right in the entire resulting output.
+
+The legal status of elements created directly by generative technology is determined by applicable law, the terms of the relevant service, and the Author’s actual creative contribution to the creation of the material.
+
+The CC BY-NC-ND 4.0 license terms (Section 08) apply to such materials only to the extent that the corresponding rights arise and belong to the Author.
+
+Where necessary, the Author may indicate that a material or part of a material was created or processed using generative technologies.
+
+12 — USER RIGHTS AND RESTRICTIONS
+---------------------------------
+
+Users may use Project materials only within the scope of rights expressly granted by the applicable license or by law.
+
+Nothing in this Notice shall be interpreted as granting Users fewer rights than those directly arising from mandatory provisions of applicable law.
+
+At the same time, the absence of an express permission to use a particular item must not be interpreted as granting such permission where the relevant right requires the consent of the rights holder.
+
+Use of materials beyond the scope of the granted license requires an appropriate legal basis or separate permission from the rights holder.
+
+13 — SOFTWARE CODE, DESIGN, AND PROJECT ELEMENTS
+-------------------------------------------------
+
+Software code, software, interface design, graphical interface elements, trademarks, logos, the domain name, brand identifiers, and other Project elements that are not expressly identified as licensed copyrighted materials are not provided under CC BY-NC-ND 4.0.
+
+Use of such elements is permitted only where an appropriate legal basis exists under applicable law, the terms of a separate license, or separate permission from the rights holder.
+
+14 — LIABILITY FOR INFRINGEMENT OF RIGHTS
+------------------------------------------
+
+Use of copyrighted materials beyond the rights granted, violation of the terms of the applicable license, or any other infringement of the Author’s exclusive or moral rights may result in the remedies provided by law.
+
+The Author retains all rights to protect authorship, the Author’s name, the integrity of the work, and the exclusive right in cases and in accordance with the procedure provided by applicable law.
+
+This provision does not limit any remedies available by law to protect the rights of the User or other persons.
+
+15 — THIRD-PARTY PLATFORMS AND SERVICES
+----------------------------------------
+
+Official Project resources may be hosted on third-party internet platforms and services.
+
+Use of such platforms is also governed by their own rules, user agreements, policies, and other mandatory terms.
+
+This Notice governs matters relating to the Project and its materials and does not replace the rules of the relevant third-party platform.
+
+The mere existence of a page, channel, community, or account on a third-party platform does not mean that the Author controls the technical operation of that platform or is responsible for its actions, availability, failures, or changes to its rules.
+
+16 — CHANGES TO THE LEGAL NOTICE
+--------------------------------
+
+This version (2.0) takes effect on September 6, 2026.
+
+The current version of this Notice is published on the Project’s official website at: proekt-efir.ru/disclaimer (https://proekt-efir.ru/disclaimer)
+
+In addition to the official website, the current version of this Notice is also published in the Project’s independent technical repository: github.com/proekt-efir/docs (https://github.com/proekt-efir/docs). This allows anyone to verify the publication date and the integrity of the document’s text. In all cases, the version published on the official website is the authoritative and official version; in the event of any discrepancy, the website version shall prevail.
+
+Information about the effective date of a new version may also be displayed on the Project’s official website (for example, as an interface notification) and published on the Project’s official social media resources. The absence of any such additional notice does not affect the validity of the new version or the date on which it takes effect, which is determined by the date specified in this Section.
+
+Whenever this Notice is amended, the new version number and effective date shall be stated.
+
+An amendment to this Notice shall not be interpreted as automatically modifying or terminating rights that have already been properly granted to Users under a previously applicable license, unless otherwise expressly permitted by applicable law and the terms of the relevant license.
+
+17 — GOVERNING LAW
+------------------
+
+This Notice shall be governed by and construed in accordance with the laws of the Russian Federation.
+
+If any provision of this Notice is found to be invalid, inapplicable, or unenforceable in particular circumstances, this shall not, by itself, render the remaining provisions invalid to the extent that they may remain in effect under applicable law.
+
+Nothing in this Notice limits mandatory provisions of law that cannot be modified by agreement between the parties.
+
+============================================================
+
+© 2026 EFIR · proekt-efir.ru · Version 2.0 dated September 6, 2026
+
+SHA-256 of this document: 5adedf2aaf1e36e6fdeee3838d6f39afab816514fd6c606260d4fd4305868346
